@@ -1,0 +1,15 @@
+youtube_search
+youtube_dl
+aiohttp
+Tgcrypto
+asyncio
+NumPy
+pyrogram
+glitch_this
+requests
+opencv-python-headless
+https://raw.githubusercontent.com/HasibulKabir/pyrogramarchive/master/pyrogramasyncv0.18.0.zip
+git+https://github.com/ytdl-org/youtube-dl
+wget
+pillow
+hachoir
